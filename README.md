@@ -20,5 +20,5 @@ Notiamo anche che siamo andati ad utilizzare un Dispatcher.
 Dispatcher gestisce una coda di elementi di lavoro con priorità per un thread specifico.
 Quando un Dispatcher oggetto viene creato in un thread, diventa l'unico Dispatcher che può essere associato al thread, anche se viene Dispatcher arrestato.
 
-## Lamba Expression
+### Lamba Expression
 L'uso delle espressioni lambda serve per ridurre le righe di codice.
